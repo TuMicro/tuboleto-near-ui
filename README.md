@@ -1,3 +1,14 @@
+# Overview
+
+This repo contains the UX/UI and logic modifications relating the NEAR and Aurora Network top-up compatibility built during the NEAR MetaBUILD Hackathon. 
+
+This was built using the flutter framework.
+
+The codebase here interacts with the NEAR and Aurora connectors:
+
+* https://github.com/TuMicro/tuboleto-aurora-connection
+* https://github.com/TuMicro/tuboleto-near-connection
+
 
 # Development
 
